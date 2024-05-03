@@ -15,6 +15,7 @@ To access the MovieHub server, follow these steps:
 1. Connect to the server using the IP address 'username@10.80.23.119`.
 2. Once connected, activate the virtual environment by running the following command:
 
+- 'cd yourrepositoryname'
 - 'source my_project_env/bin/activate'
  
 ## File Transfer
@@ -25,6 +26,16 @@ To transfer CSV files to the server for analysis, use Cyberduck or any other FTP
 2. Connect to the MovieHub server using the IP address `10.80.23.119`.
 3. Enter your username and password.
 4. Navigate to the desired directory and upload your CSV file.
+
+## Installation
+
+Clone this repository and set up the local environment:
+
+- 'git clone https://github.com/yourusername/yourrepositoryname.git'
+- 'cd yourrepositoryname'
+- 'python -m venv my_project_env'
+- 'source my_project_env/bin/activate'
+- 'pip install -r requirements.txt'
 
 ## Usage
 
@@ -39,4 +50,3 @@ To transfer CSV files to the server for analysis, use Cyberduck or any other FTP
 ## Contact
 
 For questions or feedback, contact [Elif Yasar](mailto:eyasar@stetson.edu).
-
