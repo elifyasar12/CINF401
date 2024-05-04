@@ -47,6 +47,9 @@ Clone this repository and set up the local environment:
 
 3. When analyzing data and generating graphs in the code, ensure that the virtual environment is activated and the necessary dependencies are installed.
 
+### License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Contact
 
 For questions or feedback, contact [Elif Yasar](mailto:eyasar@stetson.edu).
